@@ -34,17 +34,17 @@ const payment = {
     }
 }
 
-global.namabot = "ʀɪᴏᴏ ᴍᴅ"
-global.namaowner = "RiooXdzz"
-global.owner = ['6285691304150'] // ubah aja pake nomor lu
-global.premium = ['6285691304150']
-global.sgc = 'https://chat.whatsapp.com/HQy6bLpnrYs2OnPY3r6Bq4'
+global.namabot = "ᴍᴀɴᴜ-ᴍᴅ"
+global.namaowner = "Manul Official"
+global.owner = ['94742274855'] // ubah aja pake nomor lu
+global.premium = ['94742274855']
+global.sgc = 'https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN'
 global.sessionName = 'sessions'
-global.mail = 'riooxdzz@nakano.tech'
-global.sourceUrl = "https://shoplinks.to/NakanoNinoo"
+global.mail = 'manulwijethilaka@gmail.com'
+global.sourceUrl = "https://github.com/manulofficial7"
 global.thumb = fs.readFileSync('./media/img/riooxdzz.png')
 global.packname = "Sticker By"
-global.author = "Rioo-MD\n\n+6285691304150"
+global.author = "Manu-MD\n\n+13022410866"
 global.wlcm = []
 global.usePairingCode = false // True/Buat Menampilkan Pairing Code
 global.autoRestart = true
@@ -55,8 +55,8 @@ global.ORDERKUOTA_ID = '.' //masukan id contoh:OK1272169
 global.ORDERKUOTA_PASSWORD = '.'
 global.domainotp = "https://tokoclaude.com/api"
 global.apikeyotp = "b2d498f2157a70ae322b9255e3d8691e"
-global.ytname = "RiooOfficial" // Bisa Diubah
-global.socialm = "Instagram: RiooXdzz" // Bisa Diubah
+global.ytname = "Manul_Official" // Bisa Diubah
+global.socialm = "Instagram: manu.inc" // Bisa Diubah
 global.location = "Indonesia, Dimana Aja Yang Penting Hidup" // Bisa Diubah
 
 // PANEL SETTING
